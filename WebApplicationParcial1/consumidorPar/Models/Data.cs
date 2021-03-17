@@ -1,6 +1,5 @@
 ﻿
-
-namespace WebApplicationParcial1.Models
+namespace consumidorPar.Models
 {
     using System;
     using System.ComponentModel.DataAnnotations;
@@ -14,3 +13,4 @@ namespace WebApplicationParcial1.Models
         public int random { get; set; }
     }
 }
+
